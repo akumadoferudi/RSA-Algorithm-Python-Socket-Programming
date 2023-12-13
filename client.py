@@ -27,6 +27,7 @@ while True:
 
     if message == 'exit01':
         # Close the socket
+        print("\n")
         print('bye-bye server')
         encrypted_message = encrypt(public_key, message)
         client_socket.send(pickle.dumps(encrypted_message))
