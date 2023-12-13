@@ -1,7 +1,7 @@
 # RSA Algorithm
 #
 # by: Achmad Ferdiansyah
-# github: 
+# github: https://github.com/akumadoferudi/RSA-Algorithm-Python-Socket-Programming
 
 import random
 import math
